@@ -25,5 +25,7 @@ flutter:
         pluginClass: UniLinksPlugin
       ios:
         pluginClass: UniLinksPlugin
+      macos:
+        pluginClass: UniLinksPlugin
       web:
         default_package: uni_links_web
